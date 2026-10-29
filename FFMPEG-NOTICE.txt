@@ -1,0 +1,13 @@
+This package bundles ffmpeg.exe from the FFmpeg project.
+
+Build: ffmpeg 9.0.2 essentials build by Gyan.dev
+Project: https://ffmpeg.org/
+Build page: https://www.gyan.dev/ffmpeg/builds/
+Source code: https://ffmpeg.org/download.html
+
+The bundled build is distributed under the GNU General Public License
+version 3 (GPLv3). See https://www.gnu.org/licenses/gpl-3.0.html
+
+RemotePC uses ffmpeg only as a local child process for:
+  ddagrab (DXGI Desktop Duplication) -> h264_nvenc -> Annex B pipe.
+It is not exposed as a network service.

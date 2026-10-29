@@ -1,0 +1,16 @@
+{
+  "name": "RemotePC",
+  "short_name": "RemotePC",
+  "description": "Прямое управление компьютером по IP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060b12",
+  "theme_color": "#060b12",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

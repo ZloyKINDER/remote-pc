@@ -1,0 +1,9 @@
+mss>=10.0,<11
+Pillow>=10.4,<14
+aiohttp>=3.10,<4
+cryptography>=43,<51
+numpy>=2.0,<3
+dxcam>=0.3,<0.4
+comtypes>=1.4,<2
+opencv-python-headless>=4.10,<6
+soundcard>=0.4.6,<0.5
