@@ -252,4 +252,4 @@ python -m venv .venv
 
 ## Лицензия
 
-MIT. См. [LICENSE](LICENSE).
+Код RemotePC — MIT, см. [LICENSE](LICENSE). Отдельно поставляемый `ffmpeg.exe` распространяется под GPLv3; источник и условия — в [FFMPEG-NOTICE.txt](FFMPEG-NOTICE.txt).
